@@ -1,0 +1,5 @@
+cd (nome pasta) -> entra na pasta (nome pasta)
+cd .. -> volta um nivel no diretório
+mkdir (nome) -> cria pasta (nome)
+ls -> lista o que tem na pasta
+CTRL + l -> limpa terminal do GIT
