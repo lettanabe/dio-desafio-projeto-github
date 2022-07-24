@@ -1,3 +1,7 @@
 arquivo README -> "capa de trabalho" do repositório
-introdução ao Git/GitHub -> 
+
+Introdução ao Git/GitHub -> 
 https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9
+
+Repositório da Camila Cavalcante, sobre as IDEs Java
+https://github.com/cami-la/curso-dio-dominando-ides-java.git
